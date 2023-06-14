@@ -1,28 +1,11 @@
 # 100007-DoWell-Topic-Generation-Plugin
+To follow the steps you provided, please follow the instructions below:
+Create a branch from the main branch with the name of the project you are working on, followed by your name. For example, if the project is called "MyProject" and your name is John, the branch name would be "MyProject-John".
 
-The Topic Generation API is a powerful tool that allows users to automatically generate informative and engaging topics for various applications. By leveraging advanced Artificial Intelligence techniques, this API enables users to obtain relevant and well-structured topics without the need for manual brainstorming or extensive research.
+Important: Avoid pushing your code directly to the main branch. If you do so, your code will be removed, and you will need to push it again to your branch. Instead, always work on your own branch.
 
-## Features
+Before starting the development process, make sure to thoroughly understand the project's API documentation. You can access it by clicking here, Dowell API Services.
 
-- **Topic Generation**: Generate high-quality topics based on a given input or context.
-- **Customization**: Fine-tune the generated topics by adjusting parameters and specifying preferences.
-- **Variety**: Generate a diverse range of topics to suit different content types and domains.
-- **Efficiency**: Save time and resources by automating the topic generation process.
+By following these steps, you will ensure that you work on your dedicated branch, understand the API documentation, and collaborate effectively on the project.
 
-## Getting Started
-
-To use the Topic Generation API, follow these steps:
-
-1. **Sign Up**: Create an account on our platform and obtain your API key.
-2. **Installation**: Install the API client library for your preferred programming language (Python, JavaScript, etc.).
-3. **Authentication**: Use your API key to authenticate your requests.
-4. **API Endpoint**: Make requests to the designated API endpoint with your input data.
-5. **Receive Topics**: Retrieve the generated topics from the API response.
-
-For detailed instructions, code examples, and endpoint specifications, please refer to the [API Documentation](https://documenter.getpostman.com/view/17698677/2s93sdYXcu).
-
-## Conclusion
-
-The Topic Generation API offers users a simple and efficient solution for automating the topic generation process. By leveraging the power of Artificial Intelligence , users can generate high-quality topics for a variety of applications, saving valuable time and resources. Whether you're working on content creation, research projects, or any other domain that requires topic generation, this API can be a valuable addition to your toolkit.
-
-Start using the Topic Generation API today and unlock a world of possibilities for creating engaging and informative content!
+If you encounter any issues, have questions, or need assistance with the Geometrical Layout of Big Data API, please contact our support team.
